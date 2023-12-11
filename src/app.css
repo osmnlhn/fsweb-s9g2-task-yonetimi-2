@@ -14,6 +14,7 @@
   overflow: auto;
 }
 
+
 .column {
   flex: 1;
   min-width: 240px;
@@ -90,7 +91,7 @@
   background-color: #ffd9d4;
 }
 .urgent {
-  background-color: #d4d7ff;
+  background-color: #ee0909;
 }
 /* TASK */
 
